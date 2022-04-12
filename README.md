@@ -29,59 +29,22 @@ Face_Recognition
 │   read_img.py
 │   test.py
 │   WIFI_Communication.py
-│   
+│
 ├───.idea
 │   │   Face_Recognition.iml
 │   │   misc.xml
 │   │   modules.xml
 │   │   workspace.xml
-│   │   
+│   │
 │   └───inspectionProfiles
 │           profiles_settings.xml
-│           
+│
 ├───dataset
-│   ├───HZH
-│   │       1.jpg
-│   │       10.jpg
-│   │       2.jpg
-│   │       3.jpg
-│   │       4.jpg
-│   │       5.jpg
-│   │       6.jpg
-│   │       7.jpg
-│   │       8.jpg
-│   │       9.jpg
-│   │       
-│   ├───LT
-│   │       1.jpg
-│   │       10.jpg
-│   │       2.jpg
-│   │       3.jpg
-│   │       4.jpg
-│   │       5.jpg
-│   │       6.jpg
-│   │       7.jpg
-│   │       8.jpg
-│   │       9.jpg
-│   │       
-│   ├───LYJ
-│   │       1.jpg
-│   │       10.jpg
-│   │       2.jpg
-│   │       3.jpg
-│   │       4.jpg
-│   │       5.jpg
-│   │       6.jpg
-│   │       7.jpg
-│   │       8.jpg
-│   │       9.jpg
-│   │       
+│   ├───NAME
 │   └───obma
 │           obama.jpg
-│           
-└───__pycache__
-        face_recognition.cpython-37.pyc
-        read_data.cpython-37.pyc
-        read_img.cpython-37.pyc
-        WIFI_Communication.cpython-37.pyc
+│
+└───esp32cam
+        esp32cam.ino
+        README.txt
 ```

@@ -44,7 +44,9 @@ Face_Recognition
 │   └───obma
 │           obama.jpg
 │
-└───esp32cam
-        esp32cam.ino
-        README.txt
+└───CameraWebServer
+        CameraWebServer.ino
+        app_httpd.cpp
+        camera_index.h
+        camera_pins.h
 ```
